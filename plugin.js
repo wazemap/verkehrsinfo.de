@@ -9,6 +9,6 @@
 "reload" : true,
 "shouldOverrideUrlLoading1" : "http://www.verkehrsinfo.de",
 "shouldOverrideUrlLoading2" : "https://www.verkehrsinfo.de",
-"loadUrl" : "http://www.verkehrsinfo.de/mobil/mobileList.php?lat=#lat#&lon=#lng#",
-"browserLaunchLink" : "http://www.verkehrsinfo.de/mobil/mobileList.php?lat=#lat#&lon=#lng#"
+"loadUrl" : "https://www.verkehrsinfo.de/httpsmobil/index.php?c=staulist&lat=#lat#&lon=#lng#",
+"browserLaunchLink" : "https://www.verkehrsinfo.de/httpsmobil/index.php?c=staulist&lat=#lat#&lon=#lng#"
 }
